@@ -1,2 +1,2 @@
 # toss_solutions
-finding error in solution for problem "Direct Input Output"
+solutions for assignment in toss by me
